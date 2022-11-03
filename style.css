@@ -12,6 +12,12 @@ h1 {
     background-repeat: no-repeat;
 }
 
+.dream-area {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .orange-color {
     color: orange;
 }
@@ -27,6 +33,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
